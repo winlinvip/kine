@@ -30,6 +30,8 @@ func main() {
 go mod init private.me
 ```
 
+> Remark: Please use your package URL.
+
 **Step 3:** Replace by `github.com/winlinvip/kine`
 
 ```bash
