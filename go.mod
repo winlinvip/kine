@@ -1,4 +1,4 @@
-module github.com/rancher/kine
+module github.com/winlinvip/kine
 
 go 1.12
 
