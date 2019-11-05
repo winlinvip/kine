@@ -1,6 +1,6 @@
 # KINE
 
-Fix the vgo error for [github.com/ibuildthecloud/kine](https://github.com/ibuildthecloud/kine):
+Fix the vgo error for [github.com/ibuildthecloud/kine](https://github.com/ibuildthecloud/kine) at [PR#5](https://github.com/ibuildthecloud/kine/pull/5):
 
 ```bash
 build command-line-arguments: cannot load github.com/rancher/kine/pkg/tls: git ls-remote -q https://github.com/rancher/kine exit status 128:
